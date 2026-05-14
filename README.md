@@ -6,7 +6,7 @@ We made a software such that it serves as an alarm clock and also shows an anime
 
 I made this to prove that waking up do not need to be frustrating and painful, while also keeping the customisation available.
 
-## CAD
+## 3D Model
 <img width="992" height="625" alt="image" src="https://github.com/user-attachments/assets/1f6fb717-c783-4198-a0b0-c16a8a21b535" />
 
 ### Schematic 
