@@ -22,7 +22,5 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 - Hatsune miku
 
 ## Preview
-<video autoplay muted loop playsinline>
-  <source src=https://github.com/user-attachments/assets/ea98f6f3-a1a1-4ba7-86e2-eb737fb6d13a>
-</video>
+https://youtu.be/J_CBsWXQfqE?autoplay=1&mute=1
 
