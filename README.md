@@ -20,3 +20,6 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 
 ## Inspiration
 - Hatsune miku
+
+## Preview
+[1427-Picsart-BackgroundRemover.webm](https://github.com/user-attachments/assets/9d76c76a-afb3-474f-9d7a-22e2a74d15b3)
