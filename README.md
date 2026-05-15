@@ -22,6 +22,9 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 - Hatsune miku
 
 ## Preview
-<video autoplay muted loop playsinline style="width:100vw;height:100vh;object-fit:cover">
-  <source src="1427-Picsart-BackgroundRemover.webm" type="video/webm">
+<video autoplay muted loop playsinline>
+  <source src="[1427-Picsart-BackgroundRemover.webm](https://github.com/user-attachments/assets/52cca2fa-dbf3-4d7a-a230-9b7225d86e8f)
+" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
+
