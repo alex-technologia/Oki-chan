@@ -23,8 +23,6 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 
 ## Preview
 <video autoplay muted loop playsinline>
-  <source src="[1427-Picsart-BackgroundRemover.webm](https://github.com/user-attachments/assets/52cca2fa-dbf3-4d7a-a230-9b7225d86e8f)
-" type="video/webm">
-  Your browser does not support the video tag.
+  <source src=https://github.com/user-attachments/assets/ea98f6f3-a1a1-4ba7-86e2-eb737fb6d13a>
 </video>
 
