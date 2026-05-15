@@ -22,5 +22,19 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 - Hatsune miku
 
 ## Preview
-https://youtu.be/J_CBsWXQfqE?autoplay=1&mute=1
+<!DOCTYPE html>
+<html>
+<body style="margin:0">
+
+<iframe
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/J_CBsWXQfqE?autoplay=1&mute=1&loop=1&playlist=J_CBsWXQfqE"
+frameborder="0"
+allow="autoplay"
+style="position:fixed;top:0;left:0;width:100vw;height:100vh">
+</iframe>
+
+</body>
+</html>
 
