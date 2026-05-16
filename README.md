@@ -6,7 +6,7 @@
 A digital interactive customizable alarm clock with touch screen. Normal alarm clocks are boring, animate whatever u want and slap it on. I'm most probably gonna put an anime character. Absolutely customizable however u want (software side).
 
 So this alarm clock is using linux so you can run whatever you want, you can even run doom on it. 
-We made a software such that it serves as an alarm clock and also shows an anime character in it, while the default is of course <img width="200" height="200" alt="giphy" src="https://github.com/user-attachments/assets/df07eccb-a773-40a9-ace7-93a759818156" /> but you can change whover you want. 
+We made a software such that it serves as an alarm clock and also shows an anime character in it, while the default is of course <img width="10" height="10" alt="giphy" src="https://github.com/user-attachments/assets/df07eccb-a773-40a9-ace7-93a759818156" /> but you can change whover you want. 
 
 I made this to prove that waking up do not need to be frustrating and painful, while also keeping the customisation available.
 
