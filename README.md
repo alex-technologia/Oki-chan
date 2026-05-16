@@ -26,3 +26,6 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 - Hatsune miku
 
 ## Preview
+https://github.com/user-attachments/assets/e6b8e22e-ab00-47f7-8dbc-2a04c18cb579
+
+
