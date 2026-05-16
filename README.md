@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=false&width=500&height=70&lines=Oki-chan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Oki-chan&fontSize=70&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
 <p align="center">
