@@ -24,3 +24,6 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 
 ## Inspiration
 - Hatsune miku
+
+## Preview
+<img width="400" height="225" alt="Oki-chan Idle Preview (1)" src="https://github.com/user-attachments/assets/93326932-c3e5-42ee-b90d-278f2cda79f3" />
