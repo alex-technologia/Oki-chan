@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Oki-chan&fontSize=70&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
-<p align="center">
-  🌈✨
-</p>
+
 A digital interactive customizable alarm clock with touch screen. Normal alarm clocks are boring, animate whatever u want and slap it on. I'm most probably gonna put an anime character. Absolutely customizable however u want (software side).
 
 So this alarm clock is using linux so you can run whatever you want, you can even run doom on it. 
