@@ -1,4 +1,10 @@
-<p align="center"># Oki-chan</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=false&width=500&height=70&lines=Oki-chan" />
+</p>
+
+<p align="center">
+  🌈✨
+</p>
 A digital interactive customizable alarm clock with touch screen. Normal alarm clocks are boring, animate whatever u want and slap it on. I'm most probably gonna put an anime character. Absolutely customizable however u want (software side).
 
 So this alarm clock is using linux so you can run whatever you want, you can even run doom on it. 
