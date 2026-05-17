@@ -29,10 +29,6 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 ## Preview
 https://github.com/user-attachments/assets/e6b8e22e-ab00-47f7-8dbc-2a04c18cb579
 
-<div align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='120' viewBox='0 0 600 120'><style>@keyframes grad { 0% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } 100% { background-position: 0% 50%; } } .bg { width: 100%; height: 100%; background: linear-gradient(-45deg, %23ee7752, %23e73c7e, %2323a6d5, %2323d5ab); background-size: 400% 400%; animation: grad 15s ease infinite; display: flex; align-items: center; justify-content: center; } .text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 50px; font-weight: bold; fill: white; }</style><foreignObject width='100%' height='100%'><div xmlns='http://www.w3.org/1999/xhtml' class='bg'><svg width='100%' height='100%'><text x='50%' y='60%' text-anchor='middle' class='text'>oki-chan</text></svg></div></foreignObject></svg>" alt="oki-chan" width="100%" />
-</div>
-
 ## Zine 
 <img width="520" height="695" alt="Untitled(18)" src="https://github.com/user-attachments/assets/93ec452c-7908-49f8-b749-7b65f56ba920" />
 
