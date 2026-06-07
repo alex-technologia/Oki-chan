@@ -27,9 +27,8 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 ## BOM
 <img width="758" height="349" alt="image" src="https://github.com/user-attachments/assets/b399dca2-0857-42f9-8dd8-6b28073f6f9c" />
 
-## Inspiration
-- Hatsune miku
-- Kasane Teto
+## Flashing Firmware
+Follow the steps provided by Radxa's website https://docs.radxa.com/en/cubie/a7a/other-system/android/quickly-start
 
 ## Preview
 https://github.com/user-attachments/assets/e6b8e22e-ab00-47f7-8dbc-2a04c18cb579
