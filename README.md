@@ -6,7 +6,7 @@
 <tr>
 <td width="40%">
 
-<img width="250" alt="Untitled(18)" src="https://github.com/user-attachments/assets/93ec452c-7908-49f8-b749-7b65f56ba920" />
+<img width="500" alt="Untitled(18)" src="https://github.com/user-attachments/assets/93ec452c-7908-49f8-b749-7b65f56ba920" />
 
 </td>
 
