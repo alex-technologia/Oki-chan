@@ -31,6 +31,7 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 Follow the steps provided by Radxa's website https://docs.radxa.com/en/cubie/a7a/other-system/android/quickly-start
 
 ## Preview
+What could be possible (we haven't made the software for it yet)
 https://github.com/user-attachments/assets/e6b8e22e-ab00-47f7-8dbc-2a04c18cb579
 
 ## Zine 
