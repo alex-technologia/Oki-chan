@@ -42,7 +42,7 @@ I made this project to prove that waking up doesn't have to be frustrating or pa
 🟨YELLOW = AUX Wire
 
 ## BOM
-<img width="758" height="349" alt="image" src="https://github.com/user-attachments/assets/b399dca2-0857-42f9-8dd8-6b28073f6f9c" />
+<img width="900" height="349" alt="image" src="https://github.com/user-attachments/assets/b399dca2-0857-42f9-8dd8-6b28073f6f9c" />
 
 ## Flashing Firmware
 Follow the steps provided by Radxa's website https://docs.radxa.com/en/cubie/a7a/other-system/android/quickly-start
