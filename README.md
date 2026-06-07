@@ -19,10 +19,12 @@ A digital interactive customizable alarm clock with a touch screen. Normal alarm
 This alarm clock runs Linux, so you can run almost anything you want on it—even Doom.
 
 We created software that functions as both an alarm clock and a character display. The default character is
-<img width="30" height="30" alt="giphy" src="https://github.com/user-attachments/assets/df07eccb-a773-40a9-ace7-93a759818156" />,
+<img width="25" height="25" alt="giphy" src="https://github.com/user-attachments/assets/df07eccb-a773-40a9-ace7-93a759818156" />,
 but you can replace it with whoever you like.
 
-I made this project to prove that waking up doesn't have to be frustrating or painful while still giving users complete freedom to customize their experience.
+I made this project to prove that waking up doesn't have to be frustrating or painful while still giving users complete freedom to customize their experience. ps. i hate waking up so I'm trying to make waking up fun!
+
+It is super simple to use, just install the android firmware from radxa's official website and you're ready to go! It's touchscreen so u can use it like any mobile gadget but in the form of an alarm clock.
 
 </td>
 </tr>
