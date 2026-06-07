@@ -32,7 +32,7 @@ I made this project to prove that waking up doesn't have to be frustrating or pa
 <img width="992" height="625" alt="image" src="https://github.com/user-attachments/assets/1f6fb717-c783-4198-a0b0-c16a8a21b535" />
 
 ### Wiring Diagram
-<img width="1329" height="1576" alt="Wiring schematic" src="https://github.com/user-attachments/assets/2c343380-a818-4350-8475-bc1a51762744" />
+<img width="600" height="500" alt="Wiring schematic" src="https://github.com/user-attachments/assets/2c343380-a818-4350-8475-bc1a51762744" />
 
 
 🟥RED = +wire
