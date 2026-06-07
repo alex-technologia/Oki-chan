@@ -42,7 +42,7 @@ I made this project to prove that waking up doesn't have to be frustrating or pa
 🟨YELLOW = AUX Wire
 
 ## BOM
-<img width="700" height="500" alt="BOM" src="https://github.com/user-attachments/assets/587ab1fe-67c6-4ebe-8717-147f57615693" />
+<img width="900" height="500" alt="BOM" src="https://github.com/user-attachments/assets/587ab1fe-67c6-4ebe-8717-147f57615693" />
 
 
 ## Flashing Firmware
