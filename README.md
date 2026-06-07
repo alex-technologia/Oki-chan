@@ -16,11 +16,11 @@
 
 A digital interactive customizable alarm clock with a touch screen. Normal alarm clocks are boring—animate whatever you want and put it on the display. I'm probably going to use an anime character, but it's completely customizable on the software side.
 
-This alarm clock runs Linux, so you can run almost anything you want on it—even Doom.
+This alarm clock runs Linux/Android, so you can run almost anything you want on it—even Doom.
 
 We created software that functions as both an alarm clock and a character display. The default character is
 <img width="25" height="25" alt="giphy" src="https://github.com/user-attachments/assets/df07eccb-a773-40a9-ace7-93a759818156" />,
-but you can replace it with whoever you like.
+but you can replace it with whoever you like. (work in progress)
 
 I made this project to prove that waking up doesn't have to be frustrating or painful while still giving users complete freedom to customize their experience. ps. i hate waking up so I'm trying to make waking up fun!
 
