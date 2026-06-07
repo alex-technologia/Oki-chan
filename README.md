@@ -16,7 +16,8 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 ### Schematic 
 
 ### Wiring Diagram
-<img width="588" height="702" alt="Wiring schematic" src="https://github.com/user-attachments/assets/5cd415a9-ac70-4a3c-ba39-c2dab215a565" />
+<img width="588" height="702" alt="Wiring schematic" src="https://github.com/user-attachments/assets/5cd415a9-ac70-4a3c-ba39-c2dab215a565" />  
+
 🟥RED = +wire
 ⬛BLACK = -wire
 🟩GREEN = Data wire
