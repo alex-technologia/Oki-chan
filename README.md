@@ -17,6 +17,11 @@ I made this to prove that waking up do not need to be frustrating and painful, w
 
 ### Wiring Diagram
 <img width="588" height="702" alt="Wiring schematic" src="https://github.com/user-attachments/assets/5cd415a9-ac70-4a3c-ba39-c2dab215a565" />
+🟥RED = +wire
+⬛BLACK = -wire
+🟩GREEN = Data wire
+🟧ORANGE = Audio+/-
+🟨YELLOW = AUX Wire
 
 ## BOM
 <img width="758" height="349" alt="image" src="https://github.com/user-attachments/assets/b399dca2-0857-42f9-8dd8-6b28073f6f9c" />
