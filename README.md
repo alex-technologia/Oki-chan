@@ -6,14 +6,13 @@
 <tr>
 <td width="40%">
 
-<img width="520" alt="Untitled(18)" src="https://github.com/user-attachments/assets/93ec452c-7908-49f8-b749-7b65f56ba920" />
+<img width="250" alt="Untitled(18)" src="https://github.com/user-attachments/assets/93ec452c-7908-49f8-b749-7b65f56ba920" />
 
 </td>
+
 <td width="60%">
 
-<td>
-
-<h3>Oki-chan (Okiru= wake up/Ooki= big</h3>
+<h3>Oki-chan (Okiru = wake up / Ooki = big)</h3>
 
 A digital interactive customizable alarm clock with a touch screen. Normal alarm clocks are boring—animate whatever you want and put it on the display. I'm probably going to use an anime character, but it's completely customizable on the software side.
 
@@ -24,6 +23,7 @@ We created software that functions as both an alarm clock and a character displa
 but you can replace it with whoever you like.
 
 I made this project to prove that waking up doesn't have to be frustrating or painful while still giving users complete freedom to customize their experience.
+
 </td>
 </tr>
 </table>
