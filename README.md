@@ -11,7 +11,7 @@
 </td>
 <td width="60%">
 
-## Anime Alarm Clock
+## Oki-chan (Okiru= wake up / ooki= big)
 
 A digital interactive customizable alarm clock with a touch screen. Normal alarm clocks are boring—animate whatever you want and put it on the display. I'm probably going to use an anime character, but it's completely customizable on the software side.
 
