@@ -48,7 +48,20 @@ It is super simple to use, just install the android firmware from radxa's offici
 
 
 ## Flashing Firmware
-Follow the steps provided by Radxa's website https://docs.radxa.com/en/cubie/a7a/other-system/android/quickly-start
+Android
+Compatible with microSD cards, eMMC modules, and UFS modules.
+
+1.Download 
+[Radxa Cubie A7A Android 13 20250814](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20250814/a733_android13_radxa_a7a_20250814_uart0.zip): for Cubie A7A with AC101 audio codec
+[Radxa Cubie A7A Android 13 20260206](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20260205/a733_android13_radxa_a7a_20260206_uart0.zip): for Cubie A7A with AC101B audio codec
+
+2.Flashing Tools
+SD Card Boot Disk Creation Tool:
+[PhoenixCard V4.3.2](https://dl.radxa.com/tools/windows/PhoenixCard_V4.3.2_20250331_1604_Release.zip)
+
+3.System Flashing Tools:
+[PhoenixSuit](https://dl.radxa.com/tools/windows/PhoenixSuit_V2.0.4.zip) (Windows)
+[LiveSuit](https://dl.radxa.com/tools/linux/LiveSuit_Linux_V3.0.8.zip) (Linux)
 
 ## Preview
 What could be possible (we haven't made the software for it yet)  
