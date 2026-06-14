@@ -58,7 +58,6 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 [Radxa Cubie A7A Android 13 20260206](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20260205/a733_android13_radxa_a7a_20260206_uart0.zip): for Cubie A7A with AC101B audio codec
 
 
-| Header 1 | Header 2 |
 | 2a.Flashing Tools
 SD Card Boot Disk Creation Tool:
 
