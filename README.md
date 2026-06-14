@@ -91,7 +91,7 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 ### System Flashing Tools
 
 - [PhoenixSuit](https://dl.radxa.com/tools/windows/PhoenixSuit_V2.0.4.zip) (Windows)
-  
+
 - [LiveSuit](https://dl.radxa.com/tools/linux/LiveSuit_Linux_V3.0.8.zip) (Linux)
 
 1. Unplug power and USB cables from the Radxa A7A.
