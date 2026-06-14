@@ -101,8 +101,7 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 6. Open PhoenixSuit/LiveSuit and select the firmware image from Step 1.
 7. Choose **Full Flash**.
 8. Wait until **"Firmware flashed successfully"** is displayed.
-
-The board is now ready to use.
+9. The board is now ready to use.
 
   </tr>
 </table>
