@@ -101,12 +101,12 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 7. Choose **Full Flash**.
 8. Wait until **"Firmware flashed successfully"** is displayed.
 9. The board is now ready to use.
-F(
   </tr>
 </table>
 
-(linux distro not used in this project), it's available by following [Radxa official docs](https://docs.radxa.com/en/cubie/a7a/download)
+Official Radxa A7a Android Docs [HERE](https://docs.radxa.com/en/cubie/a7a/other-system/android) 
 
+(Debian&Tina not used in this project), it's available by following [Radxa official docs](https://docs.radxa.com/en/cubie/a7a/download) if you want.
 
 ## Preview
 What could be possible (we haven't made the software for it yet)  
