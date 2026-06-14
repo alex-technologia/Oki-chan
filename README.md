@@ -57,12 +57,13 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 
 [Radxa Cubie A7A Android 13 20260206](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20260205/a733_android13_radxa_a7a_20260206_uart0.zip): for Cubie A7A with AC101B audio codec
 
-2a.Flashing Tools
+
+| Header 1 | Header 2 |
+| --- | --- |
+| 2a.Flashing Tools
 SD Card Boot Disk Creation Tool:
 
-[PhoenixCard V4.3.2](https://dl.radxa.com/tools/windows/PhoenixCard_V4.3.2_20250331_1604_Release.zip)
-
-2b.System Flashing Tools(Connect Radxa A7A to PC using usb cable):
+[PhoenixCard V4.3.2](https://dl.radxa.com/tools/windows/PhoenixCard_V4.3.2_20250331_1604_Release.zip) | 2b.System Flashing Tools(Connect Radxa A7A to PC using usb cable):
 
 [PhoenixSuit](https://dl.radxa.com/tools/windows/PhoenixSuit_V2.0.4.zip) (Windows)
 
@@ -80,7 +81,12 @@ SD Card Boot Disk Creation Tool:
   
    (vi) Open Phoenix/Livesuit click firmware and .img file from STEP 1
   
-   (vii) Click full flash and wait until "Firmware flashed successfully" done then finished and ready to be used
+   (vii) Click full flash and wait until "Firmware flashed successfully" done then finished and ready to be used |
+
+
+
+
+
   
   
 ## Preview
