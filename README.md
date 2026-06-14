@@ -104,7 +104,6 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 
 The board is now ready to use.
 
-    </td>
   </tr>
 </table>
   
