@@ -71,11 +71,9 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 
 ## 2A. SD Card Flashing
 
-[PhoenixCard V4.3.2](https://dl.radxa.com/tools/windows/PhoenixCard_V4.3.2_20250331_1604_Release.zip)
-
 ### SD Card Boot Disk Creation Tool
 
-- PhoenixCard V4.3.2
+- [PhoenixCard V4.3.2](https://dl.radxa.com/tools/windows/PhoenixCard_V4.3.2_20250331_1604_Release.zip)
 
 1. Insert SD card into PC.
 2. Open PhoenixCard.
