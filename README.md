@@ -31,7 +31,9 @@ It is super simple to use, just install the android firmware from radxa's offici
 </table>
 
 ## 3D Model
-<img width="992" height="625" alt="image" src="https://github.com/user-attachments/assets/1f6fb717-c783-4198-a0b0-c16a8a21b535" />
+
+<img width="992" height="625" alt="image" src="https://github.com/user-attachments/assets/294b5f13-029c-4bf7-8d83-f09a0327bb2d" />
+
 
 ### Wiring Diagram
 <img width="600" height="500" alt="Wiring schematic" src="https://github.com/user-attachments/assets/2c343380-a818-4350-8475-bc1a51762744" />
