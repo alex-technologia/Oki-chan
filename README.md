@@ -63,7 +63,6 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 [Radxa Cubie A7A Android 13 **20250814**](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20250814/a733_android13_radxa_a7a_20250814_uart0.zip): for Cubie A7A with **AC101** audio codec
 [Radxa Cubie A7A Android 13 **20260206**](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20260205/a733_android13_radxa_a7a_20260206_uart0.zip): for Cubie A7A with **AC101B** audio codec
 
-    </td>
   </tr>
 
   <tr>
