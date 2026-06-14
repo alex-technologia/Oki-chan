@@ -51,43 +51,59 @@ It is super simple to use, just install the android firmware from radxa's offici
 Android
 Compatible with microSD cards, eMMC modules, and UFS modules.
 
-1.Download 
-
-[Radxa Cubie A7A Android 13 20250814](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20250814/a733_android13_radxa_a7a_20250814_uart0.zip): for Cubie A7A with AC101 audio codec
-
-[Radxa Cubie A7A Android 13 20260206](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20260205/a733_android13_radxa_a7a_20260206_uart0.zip): for Cubie A7A with AC101B audio codec
 
 <table>
   <tr>
-    <td>
+    <td colspan="2">
 
-### 2a.Flashing Tools
-SD Card Boot Disk Creation Tool:
+## 1. Download Firmware
+
+### Radxa Cubie A7A Android 13 Images
+
+[Radxa Cubie A7A Android 13 **20250814**](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20250814/a733_android13_radxa_a7a_20250814_uart0.zip): for Cubie A7A with **AC101** audio codec
+[Radxa Cubie A7A Android 13 **20260206**](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20260205/a733_android13_radxa_a7a_20260206_uart0.zip): for Cubie A7A with **AC101B** audio codec
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+## 2A. SD Card Flashing
 
 [PhoenixCard V4.3.2](https://dl.radxa.com/tools/windows/PhoenixCard_V4.3.2_20250331_1604_Release.zip)
 
+### SD Card Boot Disk Creation Tool
+
+- PhoenixCard V4.3.2
+
+1. Insert SD card into PC.
+2. Open PhoenixCard.
+3. Select the firmware image from Step 1.
+4. Create the bootable SD card.
+5. Insert SD card into the Radxa A7A and power on.
+
     </td>
-    <td>
 
-### 2b.System Flashing Tools(Connect Radxa A7A to PC using usb cable):
+    <td width="50%" valign="top">
 
-[PhoenixSuit](https://dl.radxa.com/tools/windows/PhoenixSuit_V2.0.4.zip) (Windows)
+## 2B. USB Flashing
 
-[LiveSuit](https://dl.radxa.com/tools/linux/LiveSuit_Linux_V3.0.8.zip) (Linux)
+### System Flashing Tools
 
-   (i) Unplug power & data vable from Radxa A7A
-  
-  (ii) Press and hold UBOOT button on Radxa A7a
-  
-   (iii) Connect Radxa A7A and pc using USB cable
-  
-   (iv) Release UBOOT button
-  
-   (v) Open PC device manager and ensure it is recognized under the USB Device
-  
-   (vi) Open Phoenix/Livesuit click firmware and .img file from STEP 1
-  
-   (vii) Click full flash and wait until "Firmware flashed successfully" done then finished and ready to be used
+- [PhoenixSuit](https://dl.radxa.com/tools/windows/PhoenixSuit_V2.0.4.zip) (Windows)
+- [LiveSuit](https://dl.radxa.com/tools/linux/LiveSuit_Linux_V3.0.8.zip) (Linux)
+
+1. Unplug power and USB cables from the Radxa A7A.
+2. Press and hold the **UBOOT** button.
+3. Connect the Radxa A7A to the PC using a USB cable.
+4. Release the **UBOOT** button.
+5. Open Device Manager and verify the board appears under USB Devices.
+6. Open PhoenixSuit/LiveSuit and select the firmware image from Step 1.
+7. Choose **Full Flash**.
+8. Wait until **"Firmware flashed successfully"** is displayed.
+
+The board is now ready to use.
 
     </td>
   </tr>
