@@ -59,7 +59,6 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 
 
 | Header 1 | Header 2 |
-| --- | --- |
 | 2a.Flashing Tools
 SD Card Boot Disk Creation Tool:
 
