@@ -61,6 +61,7 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 ### Radxa Cubie A7A Android 13 Images
 
 [Radxa Cubie A7A Android 13 **20250814**](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20250814/a733_android13_radxa_a7a_20250814_uart0.zip): for Cubie A7A with **AC101** audio codec
+
 [Radxa Cubie A7A Android 13 **20260206**](https://github.com/radxa/allwinner-android-manifests/releases/download/A733-Android13-20260205/a733_android13_radxa_a7a_20260206_uart0.zip): for Cubie A7A with **AC101B** audio codec
 
   </tr>
@@ -91,7 +92,6 @@ Compatible with microSD cards, eMMC modules, and UFS modules.
 ### System Flashing Tools
 
 - [PhoenixSuit](https://dl.radxa.com/tools/windows/PhoenixSuit_V2.0.4.zip) (Windows)
-
 - [LiveSuit](https://dl.radxa.com/tools/linux/LiveSuit_Linux_V3.0.8.zip) (Linux)
 
 1. Unplug power and USB cables from the Radxa A7A.
