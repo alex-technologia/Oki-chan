@@ -68,19 +68,19 @@ SD Card Boot Disk Creation Tool:
 
 [LiveSuit](https://dl.radxa.com/tools/linux/LiveSuit_Linux_V3.0.8.zip) (Linux)
 
-  (i) Unplug power & data vable from Radxa A7A
+   (i) Unplug power & data vable from Radxa A7A
   
   (ii) Press and hold UBOOT button on Radxa A7a
   
-  (iii) Connect Radxa A7A and pc using USB cable
+   (iii) Connect Radxa A7A and pc using USB cable
   
-  (iv) Release UBOOT button
+   (iv) Release UBOOT button
   
-  (v) Open PC device manager and ensure it is recognized under the USB Device
+   (v) Open PC device manager and ensure it is recognized under the USB Device
   
-  (vi) Open Phoenix/Livesuit click firmware and .img file from STEP 1
+   (vi) Open Phoenix/Livesuit click firmware and .img file from STEP 1
   
-  (vii) Click full flash and wait until "Firmware flashed successfully" done then finished and ready to be used
+   (vii) Click full flash and wait until "Firmware flashed successfully" done then finished and ready to be used
   
   
 ## Preview
