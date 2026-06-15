@@ -44,7 +44,7 @@ It is super simple to use, just install the android firmware from radxa's offici
 🟨YELLOW = AUX Wire
 
 ## BOM
-<img width="900" height="500" alt="BOM" src="https://github.com/user-attachments/assets/587ab1fe-67c6-4ebe-8717-147f57615693" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/a3ed43a3-baf8-49d9-9934-37f2f71b6ec3" />
 
 
 ## Flashing Firmware
