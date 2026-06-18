@@ -108,7 +108,7 @@ Official Radxa A7a Android Docs [HERE](https://docs.radxa.com/en/cubie/a7a/other
 
 (Debian&Tina not used in this project), it's available by following [Radxa official docs](https://docs.radxa.com/en/cubie/a7a/download) if you want.
 
-##Apps
+## **Apps**
 Oki-chan is not limited by our app, thus you can use any other app you want that is android (side-loading required).
 As for our app, it will be running as .html file and is still in devolopment. 
 
