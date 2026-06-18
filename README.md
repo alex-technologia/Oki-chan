@@ -111,7 +111,7 @@ Official Radxa A7a Android Docs [HERE](https://docs.radxa.com/en/cubie/a7a/other
 ## **Apps**
 Oki-chan is not limited by our app, thus you can use any other app you want that is android (side-loading required).
 
-As for our app, it will be running as Oki-chan Webui.html file and is still in devolopment. 
+As for our app, it will be running as [Oki-chan Webui.html]() file and is still in devolopment. 
 
 ## Preview
 What could be possible (we haven't made the software for it yet)  
