@@ -974,6 +974,30 @@
     </div>
 
     <script>
+        // --- Python Bridge Integration Layer ---
+window.addEventListener('pywebviewready', function() {
+    console.log("Native hardware abstraction layer fully connected.");
+    
+    // 1. Redirect the "Play Audio Alert" button to trigger the Python native ALSA player
+    const soundBtn = document.querySelector("button[onclick='play_audio()']") || 
+                     document.querySelector(".sub-content-area button:nth-of-type(1)");
+    if (soundBtn) {
+        soundBtn.removeAttribute('onclick');
+        soundBtn.addEventListener('click', () => {
+            window.pywebview.api.play_audio_alert().then(response => console.log(response));
+        });
+    }
+
+    // 2. Redirect the "Pulse Test Buzzer" button to fire the physical I/O Pin
+    const buzzBtn = document.querySelector("button[onclick='trigger_buzzer_pulse()']") || 
+                    document.querySelector(".sub-content-area button:nth-of-type(2)");
+    if (buzzBtn) {
+        buzzBtn.removeAttribute('onclick');
+        buzzBtn.addEventListener('click', () => {
+            window.pywebview.api.pulse_hardware_buzzer().then(response => console.log(response));
+        });
+    }
+});
         // Timeout Config (1-minute idle tracking)
         const IDLE_THRESHOLD = 60000; 
         let idleTimer;
