@@ -6,7 +6,7 @@
 <tr>
 <td width="40%">
 
-<img width="500" alt="Untitled(18)" src="https://github.com/user-attachments/assets/93ec452c-7908-49f8-b749-7b65f56ba920" />
+<img width="520" height="695" alt="Untitled(22)" src="https://github.com/user-attachments/assets/e1430b2a-f67f-4d0d-8791-9740b5bb4019" />
 
 </td>
 
@@ -119,6 +119,7 @@ What could be possible (we haven't made the software for it yet)
 https://github.com/user-attachments/assets/e6b8e22e-ab00-47f7-8dbc-2a04c18cb579
 
 ## Zine 
-<img width="520" height="695" alt="Untitled(18)" src="https://github.com/user-attachments/assets/93ec452c-7908-49f8-b749-7b65f56ba920" />
+<img width="520" height="695" alt="Untitled(22)" src="https://github.com/user-attachments/assets/96ec45f2-47ee-4ed7-88e7-776ec1f687fc" />
+
 
 
