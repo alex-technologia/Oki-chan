@@ -31,11 +31,10 @@ It is super simple to use, just install the android firmware from radxa's offici
 </table>
 
 ## Onshape link 
-[https://cad.onshape.com/documents/88c036c3c5f450a3cafc0f79/w/50fab2545bc89d9e2dabb88b/e/1d1f4fe3c64da217baa0164f?renderMode=0&uiState=6a3d236724a01d036d5c05a1](https://cad.onshape.com/documents/4e082104674894d5913c4831/w/89eadd96b42d6e928645da0e/e/e63404fe947eb1d5f2b5a918?renderMode=0&uiState=6a3e1a9bb670aeef5e37b9b3)
+[[https://cad.onshape.com/documents/88c036c3c5f450a3cafc0f79/w/50fab2545bc89d9e2dabb88b/e/1d1f4fe3c64da217baa0164f?renderMode=0&uiState=6a3d236724a01d036d5c05a1](https://cad.onshape.com/documents/4e082104674894d5913c4831/w/89eadd96b42d6e928645da0e/e/e63404fe947eb1d5f2b5a918?renderMode=0&uiState=6a3e1a9bb670aeef5e37b9b3)](https://cad.onshape.com/documents/c2196d859270cbefb2446175/w/1e22324b9374e77f752ec0d0/e/32ebcde7a799d4cd3d4bf5ae?renderMode=0&uiState=6a3e1c46b670aeef5e37c2a0)
+
 
 ## 3D Model
-
-<table align="left">
   <tr>
     <td>
       <img width="300" src="https://github.com/user-attachments/assets/ceacdf5c-3ade-44a3-9434-927a9415a644" alt="Image 1">
@@ -55,9 +54,7 @@ It is super simple to use, just install the android firmware from radxa's offici
 </table>
 
 ## Wiring Diagram
-
 <img width="600" height="500" alt="Wiring schematic" src="https://github.com/user-attachments/assets/2c343380-a818-4350-8475-bc1a51762744" />
-
 
 🟥RED = +wire
 ⬛BLACK = -wire
