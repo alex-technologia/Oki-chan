@@ -35,21 +35,22 @@ https://cad.onshape.com/documents/88c036c3c5f450a3cafc0f79/w/50fab2545bc89d9e2da
 
 ## 3D Model
 
-<table>
+<table align="center">
   <tr>
-    <img width="311" height="283" alt="image" src="https://github.com/user-attachments/assets/ceacdf5c-3ade-44a3-9434-927a9415a644" />
-</td>
-    <td><img width="347" height="305" alt="image" src="https://github.com/user-attachments/assets/064f41d8-812a-4ffa-99af-9cd9be51316c" />
-
-</td>
+    <td>
+      <img width="300" src="https://github.com/user-attachments/assets/ceacdf5c-3ade-44a3-9434-927a9415a644" alt="Image 1">
+    </td>
+    <td>
+      <img width="300" src="https://github.com/user-attachments/assets/064f41d8-812a-4ffa-99af-9cd9be51316c" alt="Image 2">
+    </td>
   </tr>
   <tr>
-    <td><img width="316" height="287" alt="image" src="https://github.com/user-attachments/assets/ee6c53c0-5b13-46f5-bdb2-bc6c417877fd" />
-
-</td>
-    <td><img width="249" height="203" alt="image" src="https://github.com/user-attachments/assets/ee5f1b04-baad-436b-9e16-20d13a111dd0" />
-
-</td>
+    <td>
+      <img width="300" src="https://github.com/user-attachments/assets/ee6c53c0-5b13-46f5-bdb2-bc6c417877fd" alt="Image 3">
+    </td>
+    <td>
+      <img width="300" src="https://github.com/user-attachments/assets/ee5f1b04-baad-436b-9e16-20d13a111dd0" alt="Image 4">
+    </td>
   </tr>
 </table>
 
