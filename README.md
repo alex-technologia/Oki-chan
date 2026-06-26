@@ -35,7 +35,7 @@ https://cad.onshape.com/documents/88c036c3c5f450a3cafc0f79/w/50fab2545bc89d9e2da
 
 ## 3D Model
 
-<table align="center">
+<table align="left">
   <tr>
     <td>
       <img width="300" src="https://github.com/user-attachments/assets/ceacdf5c-3ade-44a3-9434-927a9415a644" alt="Image 1">
