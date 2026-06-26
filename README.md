@@ -6,7 +6,8 @@
 <tr>
 <td width="40%">
 
-<img width="520" height="695" alt="Untitled(22)" src="https://github.com/user-attachments/assets/e1430b2a-f67f-4d0d-8791-9740b5bb4019" />
+<img width="520" height="695" alt="Okichan Zine" src="https://github.com/user-attachments/assets/44d704e4-cae6-41f1-aea0-3b007743c2ea" />
+
 
 </td>
 
