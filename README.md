@@ -34,7 +34,24 @@ It is super simple to use, just install the android firmware from radxa's offici
 https://cad.onshape.com/documents/88c036c3c5f450a3cafc0f79/w/50fab2545bc89d9e2dabb88b/e/1d1f4fe3c64da217baa0164f?renderMode=0&uiState=6a3d236724a01d036d5c05a1
 
 ## 3D Model
-<img width="430" height="306" alt="image" src="https://github.com/user-attachments/assets/2d64e116-29e6-40a4-886c-6d44f7624d4d" />
+
+<table>
+  <tr>
+    <img width="311" height="283" alt="image" src="https://github.com/user-attachments/assets/ceacdf5c-3ade-44a3-9434-927a9415a644" />
+</td>
+    <td><img width="347" height="305" alt="image" src="https://github.com/user-attachments/assets/064f41d8-812a-4ffa-99af-9cd9be51316c" />
+
+</td>
+  </tr>
+  <tr>
+    <td><img width="316" height="287" alt="image" src="https://github.com/user-attachments/assets/ee6c53c0-5b13-46f5-bdb2-bc6c417877fd" />
+
+</td>
+    <td><img width="249" height="203" alt="image" src="https://github.com/user-attachments/assets/ee5f1b04-baad-436b-9e16-20d13a111dd0" />
+
+</td>
+  </tr>
+</table>
 
 ### Wiring Diagram
 <img width="600" height="500" alt="Wiring schematic" src="https://github.com/user-attachments/assets/2c343380-a818-4350-8475-bc1a51762744" />
